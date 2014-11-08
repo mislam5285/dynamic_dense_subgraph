@@ -52,7 +52,7 @@ nodes_covered, timeIntervals, usedB, S, edges_covered = main.main(outpath, alg, 
 toc = time.time()
 print 'total running time (sec): ', toc-tic
 print 'average degree of discovered community: ', 2.0*len(edges_covered)/len(nodes_covered)
-print 'number of intervalsL ', k
+print 'number of intervals: ', k
 print 'allowed time budget: ', B
 print 'used time budget: ', usedB
 sys.stdout.flush()

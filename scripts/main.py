@@ -177,9 +177,11 @@ if __name__ == "__main__":
         charikar_mode = 'weighted'
 
 
-    k = 10
+    #k = 10
+    k = 1
     #B = timedelta(seconds = 20) 
-    B = timedelta(days = 7)
+    #B = timedelta(days = 7)
+    B = timedelta(days = 1)
 
     #print 'read file:'
     edgesTS, nodes, edges =  utils.readFile(filepath)
