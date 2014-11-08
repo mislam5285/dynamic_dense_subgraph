@@ -48,9 +48,9 @@ utils.plotInitial(edgesTS)
 timeIntervals = []
 timeIntervals.append((0, len(edgesTS)-1))  
 tic = time.time()
-out, b, nodes_covered = main.main(outpath, alg, charikar_version, charikar_mode, pics, k, B, edgesTS, nodes, edges, timeIntervals, baseline = False, n_disc = 1000)
+nodes_covered, timeIntervals, usedB, S, edges_covered = main.main(outpath, alg, charikar_version, charikar_mode, pics, k, B, edgesTS, nodes, edges, timeIntervals, baseline = False, n_disc = 1000)
 toc = time.time()
 print toc-tic
-print out, b, nodes_covered
+print 2.0*len(edges_covered)/len(nodes_covered), usedB
 sys.stdout.flush()
     
