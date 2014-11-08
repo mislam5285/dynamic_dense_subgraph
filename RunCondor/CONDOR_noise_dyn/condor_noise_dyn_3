@@ -1,0 +1,10 @@
+requirements = ICSLinux == 2012
+#request_memory = 100M 
+executable = run_noise_dyn.sh
+universe = vanilla
+
+arguments = 3
+output = ./logs/_noise_$(Process)_$(arguments).out
+error = ./logs/_noise_$(Process).time
+log = ./logs/_noise_$(Process).log 
+queue 50

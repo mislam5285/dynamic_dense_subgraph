@@ -1,0 +1,9 @@
+requirements = ICSLinux == 2012
+#request_memory = 100M 
+executable = run_fixedB.sh
+universe = vanilla
+
+output = ./logs/$(Process).out
+error = ./logs/$(Process).time
+log = ./logs/$(Process).log 
+queue 1

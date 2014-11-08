@@ -1,0 +1,150 @@
+"2001-11-10 17:25:04" 1180 1388 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 3474 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 6015 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 3448 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 2168 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 6104 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 2172 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 5119 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 5120 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 2315 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 1595 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 3448 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 3445 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 6153 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 1770 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 5480 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 227 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 1978 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 3451 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 4931 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 1621 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 4935 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 5125 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 3444 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 3441 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 3538 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 1544 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 1543 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 4638 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 1454 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 3443 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 495 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 1724 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 5118 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 2201 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 222 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 1179 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 3484 63057 Merger News Articles
+"2001-11-10 17:25:04" 1180 6152 63057 Merger News Articles
+"2001-11-13 22:53:54" 6061 11377 139738 Confidential - Decision tree on projects
+"2001-11-13 22:53:54" 6061 1637 139738 Confidential - Decision tree on projects
+"2001-11-13 22:53:54" 6061 4769 139738 Confidential - Decision tree on projects
+"2001-11-13 22:53:54" 6061 6153 139738 Confidential - Decision tree on projects
+"2001-11-13 23:15:13" 1637 56727 139359 Fw: Confidential - Decision tree on projects
+"2001-11-14 00:58:54" 1637 56711 139361 RE: Confidential - Decision tree on projects
+"2001-11-14 15:46:56" 4769 6061 151079 RE: Confidential - Decision tree on projects
+"2001-11-14 18:35:46" 1482 818 138102 RE: Dynegy/Enron Point of Contact
+"2001-11-14 18:35:46" 1482 817 138102 RE: Dynegy/Enron Point of Contact
+"2001-11-14 20:22:10" 36 42 138105 RE: California Transactions of EPMI--Confidential ATTY Client Work Product
+"2001-11-14 20:22:10" 36 817 138105 RE: California Transactions of EPMI--Confidential ATTY Client Work Product
+"2001-11-14 20:22:10" 36 17364 138105 RE: California Transactions of EPMI--Confidential ATTY Client Work Product
+"2001-11-14 22:44:57" 1482 2310 136415 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 1463 136415 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 818 136415 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 1454 136415 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 33830 136415 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 813 136415 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 817 136415 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 817 176929 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 813 176929 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 2310 176929 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 33830 176929 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 1463 176929 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 818 176929 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-14 22:44:57" 1482 1454 176929 Talking Points For Rep. Barton On Tauzin RTO Letter
+"2001-11-15 00:34:57" 36 800 129665 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 00:34:57" 36 53413 129665 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 00:34:57" 36 200 129665 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 00:34:57" 36 801 129665 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 00:34:57" 36 347 129665 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 00:34:57" 36 253 129665 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 00:34:57" 36 1786 129665 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 00:34:57" 36 3152 129665 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 00:34:57" 36 14696 129665 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 01:24:08" 347 800 129667 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 01:24:08" 347 801 129667 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 01:24:08" 347 1786 129667 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 01:24:08" 347 200 129667 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 01:24:08" 347 36 129667 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 01:24:08" 347 253 129667 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 01:24:08" 347 3152 129667 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 01:24:08" 347 14696 129667 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 01:24:08" 347 53413 129667 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 02:14:40" 36 347 219145 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 02:31:39" 347 36 220746 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 16:48:13" 347 253 129203 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-15 16:48:13" 347 36 129203 RE: PG&E PX Credit Calculation -- CONFIDENTIAL ATTY CLIENT WORK PRODUCT
+"2001-11-16 00:57:22" 4769 6061 151092 RE: Confidential - Decision tree on projects
+"2001-11-21 18:31:29" 7573 1637 139781 FW: Confidential - GSS Organization Value to ETS
+"2001-11-21 18:31:29" 7573 6084 139781 FW: Confidential - GSS Organization Value to ETS
+"2001-11-21 18:48:57" 1637 6084 139494 Re: FW: Confidential - GSS Organization Value to ETS
+"2001-11-21 18:48:57" 1637 7573 139494 Re: FW: Confidential - GSS Organization Value to ETS
+"2001-11-21 18:48:57" 1637 4769 139494 Re: FW: Confidential - GSS Organization Value to ETS
+"2001-11-21 18:49:58" 1637 4769 139495 FW: Confidential - GSS Organization Value to ETS
+"2001-11-21 18:52:26" 4769 2176 151121 FW: Confidential - GSS Organization Value to ETS
+"2001-11-21 19:06:28" 2514 29288 47174 Confidential Agreement Revisions  --  Rio Bravo Pipeline Open Season
+"2001-11-21 19:06:28" 2514 29287 47174 Confidential Agreement Revisions  --  Rio Bravo Pipeline Open Season
+"2001-11-21 19:06:28" 2514 29286 47174 Confidential Agreement Revisions  --  Rio Bravo Pipeline Open Season
+"2001-11-21 19:06:28" 2514 770 47174 Confidential Agreement Revisions  --  Rio Bravo Pipeline Open Season
+"2001-11-21 19:06:28" 2514 284 47174 Confidential Agreement Revisions  --  Rio Bravo Pipeline Open Season
+"2001-11-21 19:06:28" 2514 8833 47174 Confidential Agreement Revisions  --  Rio Bravo Pipeline Open Season
+"2001-11-21 20:59:36" 1637 7573 139507 RE: Confidential - GSS Organization Value to ETS
+"2001-11-21 20:59:36" 1637 6084 139507 RE: Confidential - GSS Organization Value to ETS
+"2001-11-21 21:12:04" 6084 1637 138959 RE: Confidential - GSS Organization Value to ETS
+"2001-11-21 21:12:04" 6084 7573 138959 RE: Confidential - GSS Organization Value to ETS
+"2001-11-27 22:31:34" 1482 347 137905 FW: Energy bill saved for next year
+"2001-11-27 22:31:34" 1482 812 137905 FW: Energy bill saved for next year
+"2001-11-27 22:31:34" 1482 817 137905 FW: Energy bill saved for next year
+"2001-11-30 17:29:18" 12939 2235 12174 Thank you all very much for your support - NOT!
+"2001-11-30 17:29:18" 12939 1977 12174 Thank you all very much for your support - NOT!
+"2001-11-30 17:29:18" 12939 3441 12174 Thank you all very much for your support - NOT!
+"2001-12-03 23:47:18" 318 155 215232 RE: Confidential - Termination Proceedings
+"2001-12-04 07:57:55" 29461 29453 51882 Fwd: FW:
+"2001-12-14 01:21:00" 17413 2201 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 4752 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 10598 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 1460 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 1460 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 17394 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 3445 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 3444 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 1544 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 4651 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 4129 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 1543 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 3538 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 4090 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 4769 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 1454 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 2287 20157 Confidential communications
+"2001-12-14 01:21:00" 17413 3443 20157 Confidential communications
+"2001-12-18 02:36:16" 6015 1600 153624 Restructuring (Confidential Communications)
+"2001-12-18 02:36:16" 6015 3484 153624 Restructuring (Confidential Communications)
+"2001-12-18 02:36:16" 6015 3448 153624 Restructuring (Confidential Communications)
+"2001-12-18 02:36:16" 6015 275 153624 Restructuring (Confidential Communications)
+"2001-12-18 02:36:16" 6015 3444 153624 Restructuring (Confidential Communications)
+"2001-12-20 03:48:17" 412 293 60590 FW: Confidential Attorney Client Work Product
+"2002-01-11 07:23:20" 13193 3441 12447 NXE Energy CNRS (French Agency) Confidential Executive Summary Report
+"2002-01-16 22:44:01" 6943 2575 78548 FW: E memo
+"2002-01-24 22:34:38" 17392 1544 19961 Privileged and Confidential Attorney Client Work Product
+"2002-01-24 22:34:38" 17392 17367 19961 Privileged and Confidential Attorney Client Work Product
+"2002-01-24 22:34:38" 17392 17366 19961 Privileged and Confidential Attorney Client Work Product
+"2002-02-11 23:48:13" 37926 37912 82385 Confidential Contact data and RFI
+"2002-02-11 23:48:13" 37926 584 82385 Confidential Contact data and RFI
+"2002-02-12 00:50:38" 584 37926 82352 RE: Confidential Contact data and RFI
+"2002-02-12 15:07:17" 584 37926 82353 RE: Confidential Contact data and RFI
+"2002-02-12 15:11:21" 584 499 82354 FW: Confidential Contact data and RFI
+"2002-02-13 17:06:20" 37926 584 82386 Re: Confidential Contact data and RFI
+"2002-02-13 17:06:20" 37926 37912 82386 Re: Confidential Contact data and RFI
+"2002-02-13 17:20:44" 584 499 82355 FW: Confidential Contact data and RFI

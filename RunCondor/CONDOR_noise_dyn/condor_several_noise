@@ -1,0 +1,10 @@
+requirements = ICSLinux == 2012
+#request_memory = 100M 
+executable = run_several_noise.sh
+universe = vanilla
+
+#arguments = 1000
+output = ./logs/several_noise.out
+error = ./logs/several_noise.time
+log = ./logs/several_noise.log 
+queue 1

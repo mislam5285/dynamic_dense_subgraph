@@ -1,0 +1,11 @@
+requirements = ICSLinux == 2012
+#requirements = Name == pc198
+#request_memory = 100M 
+executable = run_loop_short.sh
+universe = vanilla
+
+#arguments = 3 1
+output = ./logs/$(Process).out
+error = ./logs/$(Process).time
+log = ./logs/$(Process).log 
+queue 200

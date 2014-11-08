@@ -1,0 +1,10 @@
+requirements = ICSLinux == 2012
+#request_memory = 100M 
+executable = run_noise_inner.sh
+universe = vanilla
+
+#arguments = 1000
+output = ./logs/noise_inner_$(Process).out
+error = ./logs/noise_inner_$(Process).time
+log = ./logs/noise_inner_$(Process).log 
+queue 100
