@@ -11,7 +11,7 @@ import numpy as np
 #import utils
 #import charikar, greedy, dynprogr, plotting
 import uuid
-from allutils import utils, charikar, greedy, dynprogr, plotting
+from allutils import utils, charikar, greedy, greedy_speedup, dynprogr, plotting
 
 #filepath = os.path.join("..", "Line_points_data", "out_6_72.txt")
 #filepath = os.path.join("..", "Line_points_data", "out_overlap3.txt")
@@ -52,7 +52,7 @@ def main(outpath, alg, charikar_version, charikar_mode, pics, k, B, edgesTS, nod
         #print len(G.edges())
         #exit()
         toc = time.clock()
-        print 'pile graph', toc-tic
+        #print 'time of pile graph', toc-tic
                 
         if pics:
             plotting.plotGraph(outpath, counter, 'graph_G', G)
@@ -65,7 +65,7 @@ def main(outpath, alg, charikar_version, charikar_mode, pics, k, B, edgesTS, nod
             S, avg = charikar.charikar(copy.deepcopy(G), 'unweighted', charikar_version)
            
         toc = time.clock()
-        print 'Charikar', toc-tic
+        print 'time spent on densest subgraph search', toc-tic
             
         if first == True:
             first = False
@@ -89,7 +89,7 @@ def main(outpath, alg, charikar_version, charikar_mode, pics, k, B, edgesTS, nod
             timeIntervals, edges_covered, usedB = greedy.greedy(S, edgesTS, k, timeIntervals, B)
             #print timeIntervals, edges_covered, rest_B
         if alg == 'binary':
-            timeIntervals, edges_covered, usedB = greedy.binary(S, edgesTS, k, timeIntervals, B)
+            timeIntervals, edges_covered, usedB = greedy_speedup.binary(S, edgesTS, k, timeIntervals, B)
         if alg == 'dynprogr':
             timeIntervals, edges_covered, usedB, D = dynprogr.dynprogr(S, edgesTS, k, timeIntervals, B, n_disc)
             #print timeIntervals, edges_covered, rest_B, D 
@@ -97,7 +97,7 @@ def main(outpath, alg, charikar_version, charikar_mode, pics, k, B, edgesTS, nod
         #exit()
 
         toc = time.clock()
-        print 'interval search', toc-tic
+        print 'time spent on interval search', toc-tic
          
         if pics:
             plotting.plotPoints(outpath, S, edgesTS, timeIntervals, counter, B, rest_B, k, edges_covered)
