@@ -7,3 +7,8 @@ Rozenshtein Polina, Nikolaj Tatti, and Aristides Gionis. "Discovering dynamic co
 = Tests =
 * _TEST_main.py contains example of running dynamiс dense subgraph search for various parameters. Produces illustative pictures for algorithm flow.
 * _TEST_speedup.sh times different implementations of GA and BA (basic and speeded-up with submodular pruning)
+
+Referncies:
+* https://networkx.github.io/
+* https://pypi.python.org/pypi/fibonacci-heap-mod
+
